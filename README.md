@@ -5,6 +5,10 @@
 
 Este projeto foi desenvolvido como parte do desafio do bootcamp **Ri Happy - Front-end do Zero** da [DIO](https://dio.me).
 
+[🔗 **Acesse o projeto online aqui**](https://deboranortes.github.io/desafio-landing-page/)
+
+![Demonstração do Projeto](landing-page.gif)
+
 ---
 
 ## 🌟 Modificações Realizadas
